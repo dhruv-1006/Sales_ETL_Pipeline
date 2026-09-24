@@ -1,0 +1,8 @@
+order_id,customer,product,quantity,price,order_date
+1,Amit,Laptop,1,55000,2026-01-05
+2,priya ,mouse,2,500,2026-01-06
+3,Rahul,Keyboard,,1500,2026-01-06
+4,AMIT,Laptop,1,55000,2026-01-07
+4,AMIT,Laptop,1,55000,2026-01-07
+5,Neha,Mouse,3,500,2026-01-08
+6,Priya,Monitor,1,12000,2026-01-09
